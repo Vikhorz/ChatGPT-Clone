@@ -53,4 +53,4 @@ This project is licensed under the MIT License, allowing you to use, modify, and
 - The Django framework provides the foundation for this web application.
 - OpenAI API powers the chatbot functionality, enabling intelligent conversations.
 
-Special thanks to Tomi Tokko https://github.com/tomitokko for his insightful tutorial on building this AI ChatBot web application with Django. His guidance and expertise greatly contributed to the development of this project.
+Special thanks to **Tomi Tokko** https://github.com/tomitokko for his insightful tutorial on building this AI ChatBot web application with Django. His guidance and expertise greatly contributed to the development of this project.
